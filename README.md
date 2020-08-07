@@ -1,2 +1,2 @@
 # MoviesAndMe
-OpenClassrooms tutorial, React Native
+OpenClassrooms tutorial, React Native, TypeScript
